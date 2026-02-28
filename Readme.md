@@ -12,26 +12,26 @@ This project allows you to verify PDF documents, store their content as vector e
 
 ##Create and Activate Virtual Environment
 ###Create venv
-``bash
+```bash
 python -m venv venv
-``
+```
 
 ## Activate venv
-###On Linux / macOS
-``bash
+### On Linux / macOS
+``` bash
 source venv/bin/activate
-``
-###On Windows
-``bash
+```
+### On Windows
+```bash
 venv\Scripts\activate
-``
-##Install Dependencies
+```
+## Install Dependencies
 
 Make sure your virtual environment is active, then run:
-``bash
+```bash
 pip install -r requirements.txt
 
-``
+```
 
 ## PDF Verification and Storage
 
