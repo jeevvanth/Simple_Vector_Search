@@ -10,8 +10,8 @@ This project allows you to verify PDF documents, store their content as vector e
 
 * Virtual environment support
 
-##Create and Activate Virtual Environment
-###Create venv
+## Create and Activate Virtual Environment
+### Create venv
 ```bash
 python -m venv venv
 ```
